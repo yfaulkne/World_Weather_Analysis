@@ -10,4 +10,5 @@ Deliverable 2:
 ![](https://github.com/yfaulkne/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 #####
 Deliverable 3:
-* Using Google Maps Navigation and Directions, the user now has a travel route between the four cities chosen in the last deliverable.
+* Using Google Maps Navigation and Directions, the user now has a travel route between the four cities chosen in the last deliverable. Also provided are markers for recommended hotels in each city. 
+![](https://github.com/yfaulkne/World_Weather_Analysis/blob/main/Vacation_Itenerary/WeatherPy_travel_map.PNG)
